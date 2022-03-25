@@ -1,0 +1,40 @@
+body{
+    background-image: radial-gradient(red,white,blue);
+}
+
+#main{
+   height:500px;
+   width:300px;
+   /* background-color: red;  */
+  padding:20px;
+ margin:auto;
+ box-shadow:2px 2px 100px rgba(0, 0, 6, 0.75);
+
+}
+.div1{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    color: white;
+}
+.div2{
+background-color: black;
+color:white;
+background-image: radial-gradient(red,blue);
+}
+td{
+padding:20px
+}
+
+img{
+border-radius: 1000px;
+margin: 20px;
+margin-left: 30px;
+
+}
+button{
+height:40px;
+width:120px;
+margin: 5px;
+
+}
